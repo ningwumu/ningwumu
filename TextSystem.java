@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	System.out.println("2,check");
 	System.out.println("3,receipt order form");
 	System.out.println("4,delete order form");
-	System.out.println("5,like");
+	System.out.println("5,priceas");
 	System.out.println("6,out of system");
 	System.out.println("***************************");
 	System.out.println("please choose");
